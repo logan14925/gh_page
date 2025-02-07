@@ -1,5 +1,5 @@
 # [Info] 基本信息
-site_name: 薛嘉诚个人主页 # 左上角标题
+site_name: My Website # 左上角标题
 site_url: https://gis-xh.github.io/mkdocs-site
 site_author: xjc
 site_description: 基于 mkdocs-material 的静态网站模板
