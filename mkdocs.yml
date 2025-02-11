@@ -1,5 +1,4 @@
-# [Info] 基本信息
-site_name: Xuejiacheng's Personal Website # 左上角标题
+site_name: Xuejiacheng's Personal Website
 site_url: http://127.0.0.1:8000/mkdocs-site/
 site_author: xjc
 
@@ -13,15 +12,12 @@ theme:
   features:
     - navigation.footer
   palette:
-    # Dark Mode
     - scheme: slate
       toggle:
         icon: material/weather-sunny
         name: Dark mode
       primary: green
       accent: deep purple
-
-    # Light Mode
     - scheme: default
       toggle:
         icon: material/weather-night
@@ -49,3 +45,6 @@ markdown_extensions:
       alternate_style: true
   - admonition
   - pymdownx.details
+
+extra_css:
+  - stylesheets/extra.css
