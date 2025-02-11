@@ -19,9 +19,12 @@ I had the privilege of leading my team as captain in the **RoboMaster Robotics C
 
 ## Research Projects 🛠️
 
+For a more detailed academic introduction, see [Academic](Academic/Academic.md)
+
 ### Project 1: Machine Learning-Based Mechanical Metamaterials Inverse Design and Multi-Objective Optimization
 
-- **Duration:** [Start Date] - [End Date]
+
+- **Duration:** October 2023 - February 2024
 - **Research Objective:** Inverse design and multi-objective optimization of metamaterials using machine learning algorithms.
 - **Key Technologies:** Deep Generative Neural Networks (GAN), Multi-objective Optimization, Metamaterials, Machine Learning
 - **Outcomes:** Developed algorithms for inverse generation and multi-controllable optimization.
