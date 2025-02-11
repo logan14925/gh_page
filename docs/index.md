@@ -3,9 +3,9 @@
 Welcome to my personal academic homepage.
 ## Personal Background 👤
 
-I am **Xue Jiacheng**, a second-year Master's student in the **Department of State Key Laboratory for Manufacturing Systems Engineering** at **Xi'an Jiaotong University**. I specialize in **3D Printing**, **Robotics**, and **AI + Metamaterials**.
+I am **Xue Jiacheng**, a second-year Master's student in the Department of State Key Laboratory for Manufacturing Systems Engineering at **Xi'an Jiaotong University**. I specialize in **3D Printing**, **Robotics**, and **AI + Metamaterials**.
 
-Currently undertaking a Master's degree at the **State Key Laboratory for Manufacturing Systems Engineering** at **Xi'an Jiaotong University**. My coursework encompasses **Mechanical Design Fundamentals**, **Modern Control**, **Material Mechanics**, and **Advanced Machine Learning**.
+My coursework encompasses Mechanical Design Fundamentals, Modern Control, Material Mechanics, and Advanced Machine Learning.
 
 I had the privilege of leading my team as captain in the **RoboMaster Robotics Competition**. Additionally, I completed an internship at **West Lake Interactive Robotics Company** in July 2024.
 
