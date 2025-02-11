@@ -33,65 +33,41 @@ In **July 2024**, I interned at **West Lake Interactive Robotics Company**, wher
 
 ## Research Projects
 
-### Project 1: [Project Title]
+### Project 1: Machine Learning-Based Mechanical Metamaterials Inverse Design and Multi-Objective Optimization
 - **Duration:** [Start Date] - [End Date]
-- **Research Objective:** The objective of this project was to investigate [briefly describe the purpose and scope of the research].
-- **Key Technologies:** [List technologies or methodologies used]
-- **Outcomes:** [Provide key findings or results]
-- **Link to Project:** [If applicable, include a link to project details or papers]
+- **Research Objective:** The primary goal of this project was to use machine learning algorithms for the inverse design of metamaterials, followed by applying multi-objective optimization algorithms to iteratively optimize the generated metamaterials based on user preferences.
+- **Key Technologies:** Deep Generative Neural Networks (GAN), Multi-objective Optimization, Metamaterials, Machine Learning
+- **Outcomes:** A set of algorithms for the inverse generation of metamaterials and a multi-controllable optimization scheme was developed.
+- **Link to Project:** 
+  - [GitHub: RCGAN-MO](https://github.com/logan14925/RCGAN-MO)
+  - [Article](https://github.com/logan14925/RCGAN-MO)
 
-### Project 2: [Project Title]
-- **Duration:** [Start Date] - [End Date]
-- **Research Objective:** The primary goal of this project was to explore [briefly describe the project’s objectives].
-- **Key Technologies:** [List technologies or methodologies used]
-- **Outcomes:** [Summarize key results or contributions]
-- **Link to Project:** [If applicable, include a link to project details or papers]
+### Project 2: Movable 3D Printing Robot
+- **Duration:** May 2024 - Present
+- **Research Objective:** The objective of this project is to develop a movable robot equipped with a 3D printing device to print large components, aiming to reduce the reliance on traditional large 3D printers for the fabrication of oversized parts.
+- **Key Technologies:** Robot design, control systems, 3D printing technology
+- **Outcomes:** The basic functionality of the robot has been successfully tested, with the robot able to perform suspended printing on vertical surfaces. The printing error is less than 1mm for every 150mm of printing distance.
+- **Link to Project:** 
+  - [gitee: MAM-Robot](https://gitee.com/jcXue/mam_-robot)
+  
+<p align="center">
+  <img src="assets/MAM_testing.jpg" width=30%">
+</p>
 
-### Project 3: [Project Title]
-- **Duration:** [Start Date] - [End Date]
-- **Research Objective:** This project focused on [briefly describe the project and its goals].
-- **Key Technologies:** [List technologies or methodologies used]
-- **Outcomes:** [Describe the main results or contributions]
-- **Link to Project:** [If applicable, include a link to project details or papers]
-
-## Publications
-
-Below are some of my key academic publications, which reflect my work in [mention specific areas of focus like 3D printing, robotics, AI, or metamaterials].
-
-- **[Paper Title 1](Link to Paper)**
-  - **Published in:** [Journal/Conference Name]
-  - **Date:** [Publication Date]
-  - **DOI/Link:** [DOI or link to the paper]
-  - **Abstract:** A brief description of the research and findings.
-
-- **[Paper Title 2](Link to Paper)**
-  - **Published in:** [Journal/Conference Name]
-  - **Date:** [Publication Date]
-  - **DOI/Link:** [DOI or link to the paper]
-  - **Abstract:** A brief description of the research and findings.
-
-- **[Paper Title 3](Link to Paper)**
-  - **Published in:** [Journal/Conference Name]
-  - **Date:** [Publication Date]
-  - **DOI/Link:** [DOI or link to the paper]
-  - **Abstract:** A brief description of the research and findings.
-
-## Future Research Directions
-
-As I transition to PhD studies, I intend to build upon my existing work and explore several key areas of interest:
-
-- **AI-Driven Metamaterials**: Researching the integration of artificial intelligence to design and optimize metamaterials for specific engineering applications.
-- **Human-Robot Collaboration**: Investigating systems where robots can autonomously collaborate with humans in various environments, such as manufacturing and healthcare.
-- **Advanced 3D Printing Techniques**: Developing new methods for 3D printing that involve novel materials, multi-material printing, and enhanced structural integrity.
-
-Through my PhD studies, I aim to further develop my understanding of these complex areas and contribute to impactful research that bridges the gap between theory and practical applications.
-
+### Project 3: Machine Learning-Based Continuous Fiber 3D Printing Process Monitoring
+- **Duration:** January 2023 - June 2024
+- **Research Objective:** This project focused on using machine learning algorithms to identify and repair defects in real-time during the continuous carbon fiber 3D printing process by adjusting extrusion amounts.
+- **Key Technologies:** Convolutional Neural Networks (CNN), Mask-RCNN, Continuous Fiber Reinforced Polymer Composites (CFRPC), 3D printing technology
+- **Outcomes:** A real-time monitoring framework for CFRPC 3D printing was developed, enabling automatic defect detection and correction during the printing process.
+- **Link to Project:** [Machine Learning-based Online Monitoring and Closed-loop Controlling for 3D Printing of Continuous Fiber Reinforced Composites](https://www.sciencedirect.com/science/article/pii/S2950431725000061)
+<p align="center">
+  <img src="assets/AI_CFRPC.jpg" width=50%">
+</p>
 ## Contact Information
 
 If you would like to learn more about my research or discuss potential opportunities, please feel free to contact me via the following channels:
 
 - **Email:** xuejiacheng2022@163.com
-- **LinkedIn:** [LinkedIn Profile Link]
-- **GitHub:** [GitHub Profile Link](https://github.com/logan14925)
+- **GitHub:** [GitHub](https://github.com/logan14925)
 
 Thank you for visiting my academic homepage. I look forward to discussing future research collaborations and academic opportunities!
