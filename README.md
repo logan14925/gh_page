@@ -1,6 +1,8 @@
 # Personal Homepage Project
 
-Welcome to my personal homepage project! This project is built using MkDocs and deployed via GitHub Pages.
+Welcome to my personal website! You can visit it here: [Jiacheng Xue's Homepage](https://logan14925.github.io/gh_page/). This project is crafted using MkDocs and seamlessly deployed through GitHub Pages.
+
+
 
 ## Project Overview
 

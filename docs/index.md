@@ -9,7 +9,6 @@ My coursework encompasses Mechanical Design Fundamentals, Modern Control, Materi
 
 I had the privilege of leading my team as captain in the **RoboMaster Robotics Competition**. Additionally, I completed an internship at **West Lake Interactive Robotics Company** in July 2024.
 
-
 ## Research Interests 🔍
 
 - **3D Printing**: Online monitoring using machine learning algorithms for real-time classification.
@@ -21,7 +20,7 @@ I had the privilege of leading my team as captain in the **RoboMaster Robotics C
 
 For a more detailed academic introduction, see [Academic](Academic/Academic.md)
 
-### Project 1: Machine Learning-Based Mechanical Metamaterials Inverse Design and Multi-Objective Optimization
+### Machine Learning-Based Mechanical Metamaterials Inverse Design and Multi-Objective Optimization
 
 
 - **Duration:** October 2023 - February 2024
@@ -32,7 +31,7 @@ For a more detailed academic introduction, see [Academic](Academic/Academic.md)
   - [GitHub: RCGAN-MO](https://github.com/logan14925/RCGAN-MO)
   - [Article](https://github.com/logan14925/RCGAN-MO)
 
-### Project 2: Movable 3D Printing Robot 🤖
+### Movable 3D Printing Robot 🤖
 
 - **Duration:** May 2024 - Present
 - **Research Objective:** Develop a movable robot with a 3D printing device to print large components.
@@ -45,7 +44,7 @@ For a more detailed academic introduction, see [Academic](Academic/Academic.md)
   <img src="assets/MAM_testing.jpg" width=30%">
 </p>
 
-### Project 3: Machine Learning-Based Continuous Fiber 3D Printing Process Monitoring
+### Machine Learning-Based Continuous Fiber 3D Printing Process Monitoring
 
 - **Duration:** January 2023 - June 2024
 - **Research Objective:** Real-time monitoring and defect correction during continuous carbon fiber 3D printing.
