@@ -2,14 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>http://127.0.0.1:8000/mkdocs-site/</loc>
-         <lastmod>2025-02-16</lastmod>
+         <lastmod>2025-02-24</lastmod>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/mkdocs-site/Academic/Academic/</loc>
-         <lastmod>2025-02-16</lastmod>
+         <lastmod>2025-02-24</lastmod>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/mkdocs-site/Academic/publications/</loc>
-         <lastmod>2025-02-16</lastmod>
+         <lastmod>2025-02-24</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/mkdocs-site/Favors/RoboMaster/</loc>
+         <lastmod>2025-02-24</lastmod>
     </url>
 </urlset>
