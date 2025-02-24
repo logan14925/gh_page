@@ -1,4 +1,4 @@
-# Xue Jiacheng - Personal Homepage 🏠
+# Home 🏠
 
 Welcome to my personal academic homepage.
 ## Personal Background 👤
