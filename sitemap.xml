@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>http://127.0.0.1:8000/mkdocs-site/index.html</loc>
+         <loc>http://127.0.0.1:8000/mkdocs-site/</loc>
          <lastmod>2025-02-26</lastmod>
     </url>
     <url>
-         <loc>http://127.0.0.1:8000/mkdocs-site/Academic/Academic.html</loc>
+         <loc>http://127.0.0.1:8000/mkdocs-site/Academic/Academic/</loc>
          <lastmod>2025-02-26</lastmod>
     </url>
     <url>
-         <loc>http://127.0.0.1:8000/mkdocs-site/Academic/publications.html</loc>
+         <loc>http://127.0.0.1:8000/mkdocs-site/Academic/publications/</loc>
          <lastmod>2025-02-26</lastmod>
     </url>
     <url>
-         <loc>http://127.0.0.1:8000/mkdocs-site/Favors/RoboMaster.html</loc>
+         <loc>http://127.0.0.1:8000/mkdocs-site/Favors/RoboMaster/</loc>
          <lastmod>2025-02-26</lastmod>
     </url>
 </urlset>
