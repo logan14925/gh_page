@@ -33,13 +33,29 @@ As team captain, I led the team to equal its historical best performance, reachi
 ### 2024: Team Advisor
 Transitioning to team advisor, I guided the team to break its historical record by reaching the national top 12, showcasing continuous improvement and innovation.
 <p align="center">
-  <img src="../assets/Team_advior_time.png" width="60%" style="display: inline-block;">
+  <img src="../assets/Team_advior_time.png" width="50%" style="display: inline-block;">
   <br>
-  <em style="display: inline-block; width: 60%;">Team Captain leading the team during the 2023 RoboMaster competition.</em>
+  <em style="display: inline-block; width: 50%;">Paricipate in trainging completition</em>
 </p>
 
 
 
 ## History of Our Team
+I am truly honored to have spent my undergraduate years as part of the **DuXing** Robotics Team at Xi'an Jiaotong University. This remarkable team has not only provided me with invaluable friendships but also extraordinary opportunities for personal and professional growth. I sincerely hope that the **DuXing** team will continue to push boundaries, reach new heights, and achieve even greater success in the future.
 
 
+
+<p align="center">
+  <img src="../assets/2023_04.jpg" width="48%" style="display: inline-block;">
+  <img src="../assets/2023_08.jpg" width="48%" style="display: inline-block;">
+  <br>
+  <em style="display: inline-block; width: 48%;">Our team's first championship in history (April 2023).</em>
+  <em style="display: inline-block; width: 48%;">Returning to Shenzhen for the National Competition after 4 years (August 2023).</em>
+</p>
+
+<p align="center">
+  <img src="../assets/2024_05.jpg" width="48%" style="display: inline-block;">
+  <img src="../assets/2024_08.jpg" width="48%" style="display: inline-block;">
+  <br>
+  <em style="display: inline-block; width: 50%;">Achieving our team's best historical record - Top 12 (May 2024 - August 2024).</em>
+</p>
