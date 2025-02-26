@@ -13,10 +13,10 @@ As part of the mechanical team, I designed the chassis for the Sentinel robot, f
 I designed the Infantry robot chassis, prioritizing speed, durability, and adaptability to various terrains, enhancing the team's competitive performance.
 
 <p align="center">
-  <img src="../assets/First_competitive_robot.jpg" width="48%" style="display: inline-block;">
   <img src="../assets/First_design.jpg" width="48%" style="display: inline-block;">
+  <img src="../assets/Robot_family.jpg" width="48%" style="display: inline-block;">
   <br>
-  <em style="display: inline-block; width: 48%;">My first mature competitive robot design, showcasing the team's first competitive robot.</em>
+  <em style="display: inline-block; width: 48%;">My innovative designs for the Infantry robot family, showcasing a blend of functionality and creativity.</em>
 </p>
 
 ### 2023: Team Captain
