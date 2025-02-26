@@ -12,13 +12,34 @@ As part of the mechanical team, I designed the chassis for the Sentinel robot, f
 ### 2022: Infantry Robot Chassis Design
 I designed the Infantry robot chassis, prioritizing speed, durability, and adaptability to various terrains, enhancing the team's competitive performance.
 
+<p align="center">
+  <img src="../assets/First_competitive_robot.jpg" width="48%" style="display: inline-block;">
+  <img src="../assets/First_design.jpg" width="48%" style="display: inline-block;">
+  <br>
+  <em style="display: inline-block; width: 48%;">My first mature competitive robot design, showcasing the team's first competitive robot.</em>
+</p>
+
 ### 2023: Team Captain
 As team captain, I led the team to equal its historical best performance, reaching the national top 16. My role involved strategic planning, team coordination, and optimizing robot design and performance.
 
+<p align="center">
+  <img src="../assets/Captain.jpg" width="48%" style="display: inline-block;">
+  <img src="../assets/Our_first_champion.jpg" width="48%" style="display: inline-block;">
+  <br>
+  <em style="display: inline-block; width: 48%;">Team Captain leading the team during the 2023 RoboMaster competition.</em>
+  <em style="display: inline-block; width: 48%;">First champion in the history of our team.</em>
+</p>
+
 ### 2024: Team Advisor
 Transitioning to team advisor, I guided the team to break its historical record by reaching the national top 12, showcasing continuous improvement and innovation.
+<p align="center">
+  <img src="../assets/Team_advior_time.png" width="60%" style="display: inline-block;">
+  <br>
+  <em style="display: inline-block; width: 60%;">Team Captain leading the team during the 2023 RoboMaster competition.</em>
+</p>
 
-## Conclusion
-My RoboMaster journey has been transformative, teaching me the value of teamwork and perseverance. Each year brought growth, and I am proud to have contributed to the team's success and legacy. If given another chance, I would choose to participate in this activity without hesitation.
 
-## Friendship
+
+## History of Our Team
+
+
